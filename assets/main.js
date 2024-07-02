@@ -35,7 +35,12 @@
                         'Pisang Goreng',
                         'Malaikat Subuh',
                         'Kandang Ayam',
-                        'Lele Birahi'
+                        'Lele Birahi',
+                        'Jin Baik',
+                        'Jin Jahat',
+                        'Kuda Lumping',
+                        'Pempek Palembang',
+                        'Nasi Kuning'
                     ];
                     const random = Math.floor(Math.random() * khodam.length);
                     container.style.display = "block";
